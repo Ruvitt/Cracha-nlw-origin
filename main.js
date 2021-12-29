@@ -1,5 +1,5 @@
 const LinksSocialMedia = {
-  github: 'Rvitorr',
+  github: 'Ruvitt',
   youtube: 'channel/UCrabAhvDQI45yjUKcm6yPQw',
   linkedin: 'in/ruan-cordeiro-5873a4216',
   instagram: 'ru_vitor',
